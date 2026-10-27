@@ -1,1 +1,2 @@
 # About Lungile Mawila
+I'm Lungile Mawila, a passionate Full-Stack Java Developer, .NET MAUI Mobile App Developer, Data Scientist, and ICT Lecturer. I hold a Bachelor of Information and Communication Technology (BICT) and a BICT Honours degree (Cum Laude) from the University of Mpumalanga, where I'm currently pursuing a Master of Computing. I enjoy building scalable applications, exploring artificial intelligence, and using technology to solve real-world problems. I'm driven by continuous learning, innovation, and sharing knowledge with others.
